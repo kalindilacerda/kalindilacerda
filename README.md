@@ -38,5 +38,4 @@
 
 <p>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kalindilacerda&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kalindilacerda&layout=compact&langs_count=7&theme=dracula"/>
 </p>
